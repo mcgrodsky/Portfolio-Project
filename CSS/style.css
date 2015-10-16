@@ -1,0 +1,85 @@
+Font-Family: cursive, Helvetica, sans-serif;
+*/ * {
+  box-sizing: border-box;
+}
+html {
+  background: #3f3f3f;
+}
+body {
+  font-family: 'Source Code Pro', ;
+  background-color: white;
+  width: 65%;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+h1 {
+  font-size: 50px;
+  margin: 0;
+}
+h2 {
+  margin: 0;
+}
+#block1 {
+  margin: 0 auto;
+  text-align: center;
+}
+.aboutme {
+  height: 500px;
+  margin: 10px 30px;
+  border-top: 2px dashed black;
+  padding: 10px;
+}
+.pcontent, a:link {
+  font-weight: bold;
+}
+.pontent, a:visited {
+  color: black;
+}
+.pcontent, a:hover {
+  color: gray;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  width: auto\9;
+  margin: auto;
+  border: 2px solid black;
+  border-radius: 4px;
+  width: 400px;
+  float: left;
+  margin-right: 40px;
+}
+.navlinks a {
+  display: inline;
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #A9A9A9;
+  color: #333333;
+  padding: 3px 6px;
+  border: 1px solid #707070;
+  border-radius: 4px;
+  display: inline;
+  margin: 0 10px;
+}
+.navlinks {
+  margin-top: 15px;
+}
+#resume-body {
+  margin: 30px;
+  margin 10px;
+  padding: 10px 40px;
+  border-top: 2px dashed black;
+}
+.job-title {
+  font-weight: bold;
+  font-size: 18px;
+}
+.icons img {
+  width: 30px;
+  border: none;
+}
+p {
+  color: black;
+  font-weight: normal;
+}
